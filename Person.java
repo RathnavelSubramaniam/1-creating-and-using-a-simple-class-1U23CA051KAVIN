@@ -9,7 +9,7 @@ class Persona
       Lastname = Lname;
       age = a;
    }
-   String getfullname () {
+   String getfullname() {
 
   return Firstname+" "+Lastname;
    }
